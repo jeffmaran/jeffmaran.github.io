@@ -1,21 +1,21 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: Blog Pessoal
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site 
+url: "http://jeffmaran.github.io" # the base hostname & protocol for your site 
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Jefferson Maran
+user_description: Desenvolvedor - Pai - Marido
+user_title: Jefferson Maran
+email: jefferson.maran@gmail.com
+twitter_username: @jefferson_maran
+github_username:  jeffmaran
+gplus_username:  +Jeffersonmaran
+disqus_username: 
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
 permalink: /:title/
 
 
@@ -31,8 +31,8 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
+  - title: tutoriais
+    url: /tutoriais
   - title: Tags
     url: /tags
   - title: About Me
