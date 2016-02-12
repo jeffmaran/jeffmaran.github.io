@@ -11,7 +11,7 @@ email: jefferson.maran@gmail.com
 twitter_username: @jefferson_maran
 github_username:  jeffmaran
 gplus_username:  +Jeffersonmaran
-disqus_username: 
+disqus_username: jefferson_maran
 
 # Build settings
 markdown: kramdown
@@ -35,8 +35,8 @@ links:
     url: /tutoriais
   - title: Tags
     url: /tags
-  - title: About Me
-    url: /about
+  - title: Sobre
+    url: /sobre
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
